@@ -1,0 +1,22 @@
+conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit=11.3 -c pytorch
+
+cmake
+Cython
+librosa
+matplotlib
+numpy
+scipy
+tensorboard
+unidecode
+pyopenjtalk
+jamo
+pypinyin
+jieba
+protobuf
+cn2an
+inflect
+eng_to_ipa
+ko_pron
+indic_transliteration
+num_thai
+opencc
